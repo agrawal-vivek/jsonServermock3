@@ -1,8 +1,94 @@
 {
   
   "cart":[
-    {
-      "id":1
-    }
+   {
+"id": 1,
+"mrpRange": {
+"min": 2599,
+"max": 2599
+},
+"sellingPriceRange": {
+"min": 1299,
+"max": 1299
+},
+"discountRange": {
+"min": 50,
+"max": 50
+},
+"name": "Men Blue Jackson Skinny Fit Low Rise Jeans",
+"brand": "Flying Machine",
+"url": "/flying-machine-men-blue-jackson-skinny-fit-low-rise-jeans-UCNT6K7M5AL",
+"imagePath": "https://cdn08.nnnow.com/web-images/medium/styles/UCNT6K7M5AL/1646736793757/1.jpg",
+"altImagePath": "https://cdn06.nnnow.com/web-images/medium/styles/UCNT6K7M5AL/1646736793754/2.jpg",
+"otherImages": {
+"3": "/styles/UCNT6K7M5AL/1646736793756/3.jpg",
+"4": "/styles/UCNT6K7M5AL/1646736793734/4.jpg",
+"5": "/styles/UCNT6K7M5AL/1646736793747/5.jpg"
+},
+"promotions": [
+{
+"id": "f0a9fec1-a69f-49a9-afc1-291f0de1182e",
+"name": "ALL15",
+"displayName": "Buy For 2999 Get Extra 15% Off",
+"type": "coupon",
+"displayDiscount": false,
+"noCouponDetails": null,
+"brands": [],
+"supportedChannel": [
+"android",
+"odin",
+"ios"
+],
+"discountInPercentage": null
+},
+{
+"id": "4864b204-22c4-48d2-bcca-26c34e5ca950",
+"name": "ALL10",
+"displayName": "Buy For 1999 Get Extra 10% Off",
+"type": "coupon",
+"displayDiscount": false,
+"noCouponDetails": null,
+"brands": [],
+"supportedChannel": [
+"android",
+"odin",
+"ios"
+],
+"discountInPercentage": null
+},
+{
+"id": "5e0a4ac8-71d0-46bd-abf6-5ab8e4e06b22",
+"name": "FMARROW50",
+"displayName": "Flat 50% Off",
+"type": "noCoupon",
+"displayDiscount": true,
+"noCouponDetails": {
+"templateType": "PERCENTAGE",
+"templateValue": 50
+},
+"brands": [],
+"supportedChannel": [
+"odin"
+],
+"discountInPercentage": 50
+}
+],
+"moreColors": null,
+"isNew": false,
+"sizeChartId": null,
+"skus": null,
+"video": null,
+"allImages": null,
+"specs": null,
+"sapStyleId": null,
+"productTags": [
+{
+"tagText": "OFFER",
+"tagUrl": "https://cdn02.nnnow.com/web-images/master/product_tags/cb6e9f96-922e-42cb-84ae-9337178f87fa/1554297283453/Sale.png",
+"tagTextColor": "#d50032"
+}
+],
+"imageColor": "#b5dce1"
+}
   ]
 }
